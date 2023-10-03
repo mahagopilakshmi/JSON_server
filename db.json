@@ -5,7 +5,8 @@
     "lastName": "Roy",
     "email": "ani@gmail.com",
     "comment":"Hey there, welcome to the discussion",
-    "timeStamp":1696185000000
+    "timeStamp":1696185000000,
+    "thumbNail":"https://images.unsplash.com/profile-1655083879122-894643b092c2image?dpr=1&auto=format&fit=crop&w=64&h=64&q=60&crop=faces&bg=fff"
     },
     {
     "id": "2",
@@ -13,7 +14,8 @@
     "lastName": "Sharma",
     "email": "rahul@gmail.com",
     "comment":"Hey there, welcome to the discussion",
-    "timeStamp":1696185000000
+    "timeStamp":1696185000000,
+    "thumbNail":"https://images.unsplash.com/profile-1687205139983-9e50e8712dc5image?dpr=1&auto=format&fit=crop&w=64&h=64&q=60&crop=faces&bg=fff"
     },
     {
     "id": "3",
@@ -21,7 +23,8 @@
     "lastName": "Tyson",
     "email": "lipon21@gmail.com",
     "comment":"Hey there, welcome to the discussion",
-    "timeStamp":1696185000000
+    "timeStamp":1696185000000,
+    "thumbNail":"https://images.unsplash.com/profile-1581064825500-2114cabc4723image?dpr=1&auto=format&fit=crop&w=64&h=64&q=60&crop=faces&bg=fff"
     },
     {
     "id": "4",
@@ -29,6 +32,7 @@
     "lastName": "Kumar",
     "email": "saurav@gmail.com",
     "comment":"Hey there, welcome to the discussion",
-    "timeStamp":1696185000000
+    "timeStamp":1696185000000,
+    "thumbNail":"https://images.unsplash.com/profile-1588840552715-6e390d397d9fimage?dpr=1&auto=format&fit=crop&w=64&h=64&q=60&crop=faces&bg=fff"
     }
     ]}
